@@ -1,2 +1,4 @@
-# synapsi.co
+# Synapsi.co
 synapsi.co repository
+
+
